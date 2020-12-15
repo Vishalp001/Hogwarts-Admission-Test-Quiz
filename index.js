@@ -15,7 +15,7 @@ var leadboard =[
     }
 ]
 console.log(Chalk.bold.underline.magentaBright("🧙  WELCOME TO THE WIZARD WORLD 🧙 \n"))
-console.log(Chalk.red("THIS EXAM IS SET TO SEE IF YOU QUATIFY \n TO GO TO HOGWARTS WITCHCRAFT AND WIZARDARY SCHOOL" ));
+console.log(Chalk.red("THIS EXAM IS SET TO SEE IF YOU QUALIFY \n TO GO TO HOGWARTS WITCHCRAFT AND WIZARDARY SCHOOL" ));
 console.log("THIS SIMPLE EXAM WILL DETERMINE \n WEITHER  YOU WILL ABLE TO ATTEND HOGWARTS. \n TEST YOU KNOWLEDGE OF HOGWARTS HISTORY. \n YOUR SINCERELY ~ M.MCGONGALL DEPUTY HEADMISTRESS.")
 console.log(Chalk.blue.bold("--------------------------------------------"));
 var userName = readlineSync.question(Chalk.green("Book of Admittance! Enter Your Name " ));
